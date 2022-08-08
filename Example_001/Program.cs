@@ -1,1 +1,1 @@
-﻿Console.WriteLine("2022 08 Hello, World!");
+﻿Console.WriteLine("2022 Hello, World!");
